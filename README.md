@@ -1,3 +1,13 @@
+Instrucciones para el uso:
+
+Usuarios de prueba
+
+usuario:prueba
+clave:123
+
+usuario:usuario
+clave:123
+
 Proyecto PHP con el framework Codeigniter para gestionar los productos con angular.
 
 Para el uso y verificación de este proyecto es recomendable seguir las instrucciones:
