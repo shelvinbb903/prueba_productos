@@ -1,4 +1,4 @@
-Proyecto PHP con el framework Codeigniter para gestionar los productos con agular.
+Proyecto PHP con el framework Codeigniter para gestionar los productos con angular.
 
 Para el uso y verificación de este proyecto es recomendable seguir las instrucciones:
 
